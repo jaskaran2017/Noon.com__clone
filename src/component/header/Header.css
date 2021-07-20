@@ -4,6 +4,8 @@
   width: 100%;
   height: 110px;
   background-color: #feee03;
+  border-bottom: 2px solid green;
+  margin-bottom: 1rem;
 }
 .header__up {
   display: flex;
@@ -164,7 +166,7 @@
 .header__down-classes {
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   flex: 0.85;
 }
 /* }
